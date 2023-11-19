@@ -8,4 +8,5 @@
 
 2. 20231119 Nov 2023 Aroh's Power Platform Licencing Notes [Aroh's Power Platform Licencing Notes](https://github.com/aarohbits/PowerPlatformLicencing/tree/main/20231119%20Aroh's%20Power%20Platform%20Licencing%20Notes)
 
-3. Visual Way of PowerPlatform Licensing November 2023 Edition [Visual Way of PowerPlatform Licensing November 2023 Edition](https://github.com/aarohbits/PowerPlatformLicencing#readme)
+3. Visual Way of PowerPlatform Licensing November 2023 Edition [Visual Way of PowerPlatform Licensing November 2023 Edition](https://github.com/aarohbits/PowerPlatformLicencing/blob/main/20231119%20Visual%20Way%20of%20PowerPlatform%20Licensing%20November%202023%20Edition/20231119%20Power%20Apps%20Latest.pdf)
+   
