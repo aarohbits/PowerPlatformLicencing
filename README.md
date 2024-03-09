@@ -8,5 +8,5 @@
 
 2. 20240310 Visual Way of PowerPlatform Licensing for **EACH** product [Visual Way of PowerPlatform Licensing of each product](<20240310 Visual Way of PowerPlatform Licensing Feb 2024 Edition>)
 
-3. 20240310  isual Way of PowerPlatform Licensing for **ALL** products [Visual Way of PowerPlatform Licensing of all products - Single file](<20240310 Visual Way of Power Platform Licnensing All Products in a Single file PDF>)
+3. 20240310 Visual Way of PowerPlatform Licensing for **ALL** products [Visual Way of PowerPlatform Licensing of all products - Single file](<20240310 Visual Way of Power Platform Licnensing All Products in a Single file PDF>)
    
