@@ -9,4 +9,7 @@
 2. 20240310 Visual Way of PowerPlatform Licensing for **EACH** product [Visual Way of PowerPlatform Licensing of each product](<20240310 Visual Way of PowerPlatform Licensing Feb 2024 Edition>)
 
 3. 20240310 Visual Way of PowerPlatform Licensing for **ALL** products [Visual Way of PowerPlatform Licensing of all products - Single file](<20240310 Visual Way of Power Platform Licnensing All Products in a Single file PDF>)
-   
+
+
+4.  20250802 Visual Way of Microsoft Copilot Studio Licensing
+   [Microsoft Copilot Studio Licensing](<20250802 Visual Way of Microsoft Copilot Studio Licensing/Copilot Studio Licensing - Aug2025.pdf>)
